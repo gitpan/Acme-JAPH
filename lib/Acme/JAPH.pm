@@ -1,5 +1,5 @@
 package Acme::JAPH;
-$Acme::JAPH::VERSION = '0.02';
+$Acme::JAPH::VERSION = '0.03';
 print "Just another Perl hacker,\n";
 exit;
 
@@ -17,6 +17,10 @@ Acme::JAPH - Turn anything into a JAPH
 =head1 DESCRIPTION
 
 C<Acme::JAPH> turns anything into a JAPH.  Very useful, and simple.
+
+=head1 SEE ALSO
+
+http://www.cpan.org/misc/japh
 
 =head1 AUTHOR
 

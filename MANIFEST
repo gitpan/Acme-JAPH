@@ -3,3 +3,4 @@ Makefile.PL
 README
 lib/Acme/JAPH.pm
 t/test.t
+META.yml                                Module meta-data in YAML

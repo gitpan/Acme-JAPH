@@ -1,6 +1,6 @@
 package Acme::JAPH;
-$Acme::JAPH::VERSION = '0.01';
-print "Just another Perl Hacker,\n";
+$Acme::JAPH::VERSION = '0.02';
+print "Just another Perl hacker,\n";
 exit;
 
 =pod
